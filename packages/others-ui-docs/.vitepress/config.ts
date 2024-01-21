@@ -29,6 +29,7 @@ export default defineConfig({
           { text: 'Input', link: '/docs/input' },
           { text: 'Checkbox', link: '/docs/checkbox' },
           { text: 'Form', link: '/docs/form' },
+          { text: 'Radio', link: '/docs/radio' },
         ]
       }
     ],
